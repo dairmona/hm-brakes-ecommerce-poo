@@ -1,0 +1,10 @@
+{
+  "name": "hm-brakes-ecommerce",
+  "version": "1.0.0",
+  "description": "Proyecto e-Commerce HM BRAKES - Herencia en POO",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
